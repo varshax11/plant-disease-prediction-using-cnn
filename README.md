@@ -99,3 +99,7 @@ plant disease classification
 ## Conclusion
 
 This project demonstrates how deep learning can be used for automated plant disease detection from leaf images. 
+
+
+
+
